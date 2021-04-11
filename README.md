@@ -2,7 +2,7 @@
 This RHODP package contains a set of functions that are useful when creating ggplot2 plots for HODP articles. Users can access the primary, monochrome, and side-by-side HODP color palettes (see: https://github.com/HarvardOpenData/HODP-StyleGuide/blob/master/hodp-colors-typography.pdf). Users can also quickly add HODP logo to their graphs. An example plot is included below,
 
 ### Example plot:
-![day2](https://user-images.githubusercontent.com/32553332/66420327-abba5f00-e9d3-11e9-8efd-af9f44916fd0.png)
+![day2](https://raw.githubusercontent.com/ahmadazim/hodp-r-templates/main/examplePlot.png)\\
 Code to generate plot above...
 ```r
 mtcars$cyl <- as.factor(mtcars$cyl)
